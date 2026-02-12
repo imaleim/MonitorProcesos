@@ -10,7 +10,7 @@ El proyecto está dividido en módulos para aplicar buenas prácticas de program
 ### Integrantes del Equipo 
 Alejandra Itzel Ojeda Valdez — GitHub - imaleim
 
-Nombre 2 — [correo o GitHub]
+Nombre 2 — Luis Santiago Cantú Niño - Github - sqntii
 
 Nombre 3 — [opcional]
 
