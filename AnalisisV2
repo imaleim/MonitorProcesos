@@ -1,0 +1,303 @@
+Fecha: Tue Feb 10 22:26:58 2026
+Total procesos: 267
+
+0 | System Idle Process | Memoria: 8 KB
+ | Riesgo: Bajo | Razon: Normal
+4 | System | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+92 | Secure System | Memoria: 39 | Riesgo: Bajo | Razon: Normal
+136 | Registry | Memoria: 25 | Riesgo: Bajo | Razon: Normal
+596 | smss.exe | Memoria: 148 KB
+ | Riesgo: Bajo | Razon: Normal
+1120 | csrss.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+1204 | wininit.exe | Memoria: 312 KB
+ | Riesgo: Bajo | Razon: Normal
+1352 | services.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+1372 | LsaIso.exe | Memoria: 132 KB
+ | Riesgo: Bajo | Razon: Normal
+1380 | lsass.exe | Memoria: 12 | Riesgo: Bajo | Razon: Normal
+1496 | svchost.exe | Memoria: 21 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1536 | fontdrvhost.exe | Memoria: 236 KB
+ | Riesgo: Bajo | Razon: Normal
+1612 | WUDFHost.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+1680 | svchost.exe | Memoria: 14 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1728 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1816 | WUDFHost.exe | Memoria: 340 KB
+ | Riesgo: Bajo | Razon: Normal
+1968 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1976 | svchost.exe | Memoria: 736 KB
+ | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1984 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+1436 | svchost.exe | Memoria: 9 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2064 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2136 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2156 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2172 | svchost.exe | Memoria: 6 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2180 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2268 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2288 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2392 | IntelCpHDCPSvc.exe | Memoria: 276 KB
+ | Riesgo: Bajo | Razon: Normal
+2412 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2460 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2480 | svchost.exe | Memoria: 5 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2572 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2584 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2624 | svchost.exe | Memoria: 3 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2632 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2840 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2924 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3012 | svchost.exe | Memoria: 636 KB
+ | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2804 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3156 | igfxCUIServiceN.exe | Memoria: 536 KB
+ | Riesgo: Bajo | Razon: Normal
+3304 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3340 | SynTPEnhService.exe | Memoria: 620 KB
+ | Riesgo: Bajo | Razon: Normal
+3444 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3488 | svchost.exe | Memoria: 8 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3520 | svchost.exe | Memoria: 6 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3528 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3620 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3644 | svchost.exe | Memoria: 15 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3680 | AppHelperCap.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+3696 | DiagsCap.exe | Memoria: 736 KB
+ | Riesgo: Bajo | Razon: Normal
+3708 | Memory Compression | Memoria: 180 | Riesgo: Bajo | Razon: Normal
+3740 | NetworkCap.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+3748 | SysInfoCap.exe | Memoria: 15 | Riesgo: Bajo | Razon: Normal
+3780 | TouchpointAnalyticsClientService.exe | Memoria: 21 | Riesgo: Bajo | Razon: Normal
+3792 | hp-one-agent-service.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+3956 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4020 | svchost.exe | Memoria: 8 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4144 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4164 | svchost.exe | Memoria: 17 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4424 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4508 | svchost.exe | Memoria: 21 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4540 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4548 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4560 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4684 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4748 | spoolsv.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+4760 | NgcIso.exe | Memoria: 80 KB
+ | Riesgo: Bajo | Razon: Normal
+4824 | svchost.exe | Memoria: 8 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5008 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5020 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5032 | svchost.exe | Memoria: 21 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5040 | OfficeClickToRun.exe | Memoria: 9 | Riesgo: Bajo | Razon: Normal
+5052 | svchost.exe | Memoria: 17 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5076 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+4324 | esif_uf.exe | Memoria: 580 KB
+ | Riesgo: Bajo | Razon: Normal
+3980 | HPPrintScanDoctorService.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+2148 | OneApp.IGCC.WinService.exe | Memoria: 4 | Riesgo: Bajo | Razon: Normal
+5132 | inetinfo.exe | Memoria: 892 KB
+ | Riesgo: Bajo | Razon: Normal
+5164 | IntelAudioService.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+5204 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5212 | jhi_service.exe | Memoria: 372 KB
+ | Riesgo: Bajo | Razon: Normal
+5384 | RstMwService.exe | Memoria: 260 KB
+ | Riesgo: Bajo | Razon: Normal
+5448 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5508 | RtkAudUService64.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+5524 | RtkBtManServ.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+5536 | SECOMN64.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+5588 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5580 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5652 | svchost.exe | Memoria: 348 KB
+ | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5684 | vmware-authd.exe | Memoria: 516 KB
+ | Riesgo: Bajo | Razon: Normal
+5712 | vmware-usbarbitrator64.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+5736 | vmnat.exe | Memoria: 584 KB
+ | Riesgo: Bajo | Razon: Normal
+5764 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5836 | WMIRegistrationService.exe | Memoria: 424 KB
+ | Riesgo: Bajo | Razon: Normal
+5852 | vmnetdhcp.exe | Memoria: 308 KB
+ | Riesgo: Bajo | Razon: Normal
+5860 | svchost.exe | Memoria: 11 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5888 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+6180 | dasHost.exe | Memoria: 372 KB
+ | Riesgo: Bajo | Razon: Normal
+6464 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+7324 | svchost.exe | Memoria: 3 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+7724 | unsecapp.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+7928 | WmiPrvSE.exe | Memoria: 8 | Riesgo: Bajo | Razon: Normal
+4492 | PresentationFontCache.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+8284 | svchost.exe | Memoria: 10 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+8404 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2072 | BraveCrashHandler.exe | Memoria: 888 KB
+ | Riesgo: Bajo | Razon: Normal
+8272 | BraveCrashHandler64.exe | Memoria: 88 KB
+ | Riesgo: Bajo | Razon: Normal
+8576 | svchost.exe | Memoria: 10 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+8780 | svchost.exe | Memoria: 18 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5160 | svchost.exe | Memoria: 11 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+9540 | AggregatorHost.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+10224 | svchost.exe | Memoria: 18 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+12700 | dasHost.exe | Memoria: 224 KB
+ | Riesgo: Bajo | Razon: Normal
+14696 | SecurityHealthService.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+15368 | svchost.exe | Memoria: 5 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+14052 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+8160 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+17120 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+5416 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+7688 | servicehost.exe | Memoria: 16 | Riesgo: Bajo | Razon: Normal
+13296 | svchost.exe | Memoria: 3 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+16896 | svchost.exe | Memoria: 3 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+15644 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+16100 | svchost.exe | Memoria: 17 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+13504 | svchost.exe | Memoria: 4 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+10420 | svchost.exe | Memoria: 10 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+7656 | svchost.exe | Memoria: 6 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+3204 | svchost.exe | Memoria: 9 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+10740 | SearchIndexer.exe | Memoria: 11 | Riesgo: Bajo | Razon: Normal
+14800 | RtkWiFiManServ.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+18984 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+9460 | FileSyncHelper.exe | Memoria: 9 | Riesgo: Bajo | Razon: Normal
+7364 | audiodg.exe | Memoria: 15 | Riesgo: Bajo | Razon: Normal
+17588 | WmiPrvSE.exe | Memoria: 21 | Riesgo: Bajo | Razon: Normal
+1676 | csrss.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+12016 | winlogon.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+20140 | fontdrvhost.exe | Memoria: 868 KB
+ | Riesgo: Bajo | Razon: Normal
+12368 | dwm.exe | Memoria: 52 | Riesgo: Bajo | Razon: Normal
+19396 | sihost.exe | Memoria: 14 | Riesgo: Bajo | Razon: Normal
+17832 | svchost.exe | Memoria: 10 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+16092 | igfxEMN.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+12920 | uihost.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+1748 | SECOCL64.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+8452 | conhost.exe | Memoria: 344 KB
+ | Riesgo: Bajo | Razon: Normal
+5420 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+15224 | svchost.exe | Memoria: 14 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+13500 | taskhostw.exe | Memoria: 14 | Riesgo: Bajo | Razon: Normal
+10940 | explorer.exe | Memoria: 135 | Riesgo: Bajo | Razon: Normal
+19928 | CrossDeviceResume.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+5048 | SynTPEnh.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+2196 | RtkAudUService64.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+12192 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+14056 | svchost.exe | Memoria: 9 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+14640 | SearchHost.exe | Memoria: 23 | Riesgo: Bajo | Razon: Normal
+18040 | StartMenuExperienceHost.exe | Memoria: 36 | Riesgo: Bajo | Razon: Normal
+19892 | svchost.exe | Memoria: 3 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+2872 | Widgets.exe | Memoria: 21 | Riesgo: Bajo | Razon: Normal
+9948 | msedgewebview2.exe | Memoria: 8 | Riesgo: Bajo | Razon: Normal
+13908 | msedgewebview2.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+9384 | WidgetService.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+2776 | msedgewebview2.exe | Memoria: 4 | Riesgo: Bajo | Razon: Normal
+11404 | msedgewebview2.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+7588 | msedgewebview2.exe | Memoria: 272 KB
+ | Riesgo: Bajo | Razon: Normal
+6412 | msedgewebview2.exe | Memoria: 816 KB
+ | Riesgo: Bajo | Razon: Normal
+20256 | ctfmon.exe | Memoria: 12 | Riesgo: Bajo | Razon: Normal
+19188 | TabTip.exe | Memoria: 14 | Riesgo: Bajo | Razon: Normal
+12976 | TextInputHost.exe | Memoria: 30 | Riesgo: Bajo | Razon: Normal
+16768 | opera.exe | Memoria: 183 | Riesgo: Bajo | Razon: Normal
+11332 | opera_crashreporter.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+11556 | opera.exe | Memoria: 166 | Riesgo: Bajo | Razon: Normal
+17864 | opera.exe | Memoria: 36 | Riesgo: Bajo | Razon: Normal
+12176 | opera.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+19720 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+8336 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+8020 | opera.exe | Memoria: 52 | Riesgo: Bajo | Razon: Normal
+13900 | opera.exe | Memoria: 21 | Riesgo: Bajo | Razon: Normal
+8412 | opera.exe | Memoria: 63 | Riesgo: Bajo | Razon: Normal
+12512 | opera.exe | Memoria: 15 | Riesgo: Bajo | Razon: Normal
+2276 | opera.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+1856 | svchost.exe | Memoria: 2 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+14004 | svchost.exe | Memoria: 7 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+7320 | svchost.exe | Memoria: 1 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+764 | opera.exe | Memoria: 442 | Riesgo: Bajo | Razon: Normal
+11076 | opera.exe | Memoria: 27 | Riesgo: Bajo | Razon: Normal
+10776 | SecurityHealthSystray.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+1236 | opera.exe | Memoria: 287 | Riesgo: Bajo | Razon: Normal
+17752 | opera.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+14944 | RtkAudUService64.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+8940 | opera.exe | Memoria: 18 | Riesgo: Bajo | Razon: Normal
+5228 | opera.exe | Memoria: 42 | Riesgo: Bajo | Razon: Normal
+6576 | HPSystemEventUtilityBackground.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+8340 | unsecapp.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+20468 | HPMediaNetwork.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+5624 | HPSystemEventUtilityHost.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+10852 | OneDrive.exe | Memoria: 26 | Riesgo: Bajo | Razon: Normal
+7804 | BridgeCommunication.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+5924 | svchost.exe | Memoria: 8 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+13728 | OneDrive.Sync.Service.exe | Memoria: 17 | Riesgo: Bajo | Razon: Normal
+2496 | IGCCTray.exe | Memoria: 10 | Riesgo: Bajo | Razon: Normal
+4480 | IGCC.exe | Memoria: 4 | Riesgo: Bajo | Razon: Normal
+612 | CrossDeviceService.exe | Memoria: 18 | Riesgo: Bajo | Razon: Normal
+3888 | RuntimeBroker.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+5372 | WhatsApp.Root.exe | Memoria: 72 | Riesgo: Bajo | Razon: Normal
+12352 | RuntimeBroker.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+9212 | msedgewebview2.exe | Memoria: 66 | Riesgo: Bajo | Razon: Normal
+2092 | msedgewebview2.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+17352 | msedgewebview2.exe | Memoria: 14 | Riesgo: Bajo | Razon: Normal
+8324 | msedgewebview2.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+8704 | msedgewebview2.exe | Memoria: 4 | Riesgo: Bajo | Razon: Normal
+12884 | msedgewebview2.exe | Memoria: 97 | Riesgo: Bajo | Razon: Normal
+20300 | Copilot.exe | Memoria: 37 | Riesgo: Bajo | Razon: Normal
+13540 | vmware-tray.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+14624 | DesktopExtension.exe | Memoria: 9 | Riesgo: Bajo | Razon: Normal
+13572 | HP.HPX.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+20396 | browser_assistant.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+13696 | browser_assistant.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+1740 | BridgeCommunication.exe | Memoria: 4 | Riesgo: Bajo | Razon: Normal
+8672 | Code.exe | Memoria: 90 | Riesgo: Bajo | Razon: Normal
+9420 | Code.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+10876 | Code.exe | Memoria: 84 | Riesgo: Bajo | Razon: Normal
+6400 | Code.exe | Memoria: 15 | Riesgo: Bajo | Razon: Normal
+10220 | Code.exe | Memoria: 269 | Riesgo: Bajo | Razon: Normal
+8380 | Code.exe | Memoria: 33 | Riesgo: Bajo | Razon: Normal
+19148 | Code.exe | Memoria: 43 | Riesgo: Bajo | Razon: Normal
+18256 | Code.exe | Memoria: 25 | Riesgo: Bajo | Razon: Normal
+4252 | Code.exe | Memoria: 16 | Riesgo: Bajo | Razon: Normal
+1880 | conhost.exe | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+8948 | powershell.exe | Memoria: 52 | Riesgo: Alto | Razon: Proceso de consola potencialmente usado para comandos maliciosos
+5572 | AppActions.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+14656 | CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.exe | Memoria: 2 | Riesgo: Bajo | Razon: Normal
+14332 | CodeSetup-stable-591199df409fbf59b4b52d5ad4ee0470152a9b31.tmp | Memoria: 3 | Riesgo: Bajo | Razon: Normal
+12048 | dllhost.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+20016 | cpptools.exe | Memoria: 17 | Riesgo: Bajo | Razon: Normal
+11208 | conhost.exe | Memoria: 384 KB
+ | Riesgo: Bajo | Razon: Normal
+14480 | cpptools.exe | Memoria: 68 KB
+ | Riesgo: Bajo | Razon: Normal
+20244 | ShellHost.exe | Memoria: 13 | Riesgo: Bajo | Razon: Normal
+2676 | MpDefenderCoreService.exe | Memoria: 13 | Riesgo: Bajo | Razon: Normal
+5504 | MsMpEng.exe | Memoria: 185 | Riesgo: Bajo | Razon: Normal
+6444 | NisSrv.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+10472 | SystemSettings.exe | Memoria: 604 KB
+ | Riesgo: Bajo | Razon: Normal
+13912 | ApplicationFrameHost.exe | Memoria: 11 | Riesgo: Bajo | Razon: Normal
+18692 | UserOOBEBroker.exe | Memoria: 1 | Riesgo: Bajo | Razon: Normal
+4996 | ShellExperienceHost.exe | Memoria: 8 | Riesgo: Bajo | Razon: Normal
+15356 | RuntimeBroker.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+1292 | PhoneExperienceHost.exe | Memoria: 141 | Riesgo: Bajo | Razon: Normal
+5180 | cpptools-srv.exe | Memoria: 78 | Riesgo: Bajo | Razon: Normal
+9448 | conhost.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+19648 | cpptools-srv.exe | Memoria: 74 | Riesgo: Bajo | Razon: Normal
+4844 | conhost.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+11852 | cpptools-srv.exe | Memoria: 78 | Riesgo: Bajo | Razon: Normal
+2220 | conhost.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+13940 | cpptools-srv.exe | Memoria: 63 | Riesgo: Bajo | Razon: Normal
+10804 | conhost.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+13184 | cpptools-srv.exe | Memoria: 76 | Riesgo: Bajo | Razon: Normal
+12824 | conhost.exe | Memoria: 7 | Riesgo: Bajo | Razon: Normal
+2248 | cpptools-srv.exe | Memoria: 72 | Riesgo: Bajo | Razon: Normal
+19296 | conhost.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+6420 | svchost.exe | Memoria: 9 | Riesgo: Medio | Razon: Muchos procesos svchost pueden ocultar malware
+13164 | cpptools-srv.exe | Memoria: 67 | Riesgo: Bajo | Razon: Normal
+2640 | conhost.exe | Memoria: 6 | Riesgo: Bajo | Razon: Normal
+1552 | opera.exe | Memoria: 19 | Riesgo: Bajo | Razon: Normal
+1756 | opera.exe | Memoria: 252 | Riesgo: Bajo | Razon: Normal
+9776 | opera.exe | Memoria: 55 | Riesgo: Bajo | Razon: Normal
+12444 | opera.exe | Memoria: 39 | Riesgo: Bajo | Razon: Normal
+6240 | Monitor.exe | Memoria: 5 | Riesgo: Bajo | Razon: Normal
+6364 | cmd.exe | Memoria: 4 | Riesgo: Alto | Razon: Proceso de consola potencialmente usado para comandos maliciosos
+4288 | tasklist.exe | Memoria: 11 | Riesgo: Bajo | Razon: Normal

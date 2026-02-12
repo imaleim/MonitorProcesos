@@ -1,5 +1,3 @@
-//Alejandra Itzel Ojeda Valdez 
-
 #include "Procesos.h"
 #include <cstdio>
 #include <sstream>
