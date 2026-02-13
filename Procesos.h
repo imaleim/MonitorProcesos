@@ -1,3 +1,4 @@
+//Alejandra Itzel Ojeda Valdez
 #ifndef PROCESOS_H
 #define PROCESOS_H
 
@@ -12,3 +13,4 @@ struct Proceso {
 Proceso* obtenerProcesos(int &total);
 
 #endif
+
