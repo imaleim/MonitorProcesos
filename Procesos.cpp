@@ -1,3 +1,4 @@
+//Alejandra Itzel Ojeda Valdez
 #include "Procesos.h"
 #include <cstdio>
 #include <sstream>
@@ -38,3 +39,4 @@ Proceso* obtenerProcesos(int &total) {
     pclose(fp);
     return lista;
 }
+
